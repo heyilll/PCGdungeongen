@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/*.*.meta": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "**/*.unityproj": true,
+        "**/Library": true,
+        "**/Packages": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true
+    }
+}
